@@ -15,7 +15,7 @@
 
     <div class="container">
         <div class="row mid-banner">
-            <div class="col-xl-8 nazv-organ">Сайт организаций<br> ООО "Достояние" и ООО "Наследие".</div>
+            <div class="col-xl-8 col-md-8 nazv-organ">Сайт организаций<br> ООО "Достояние" и ООО "Наследие".</div>
             <div class="col-xl-4">
 			<!-- Включение блока c датой, временем и температурой -->
 			<?php include './template/date_time_temp.php'; ?>

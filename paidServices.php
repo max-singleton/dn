@@ -17,561 +17,546 @@
 	<!-- Контент. Начало -->
 <div class="container bg-white">
     <div class="row o-company">
-        <!--<div class="col-xl-2 ">
+<!--        <div class="col-md-1 ">
         </div>-->
         <div class="col">
             <div class="col-md-12">
+                <!--work_area. Начало -->
 
                 <style>
-                    td,tr {
+
+                    td{
                         border: 2px solid #fff;
-                        text-align:center;
+                        text-align:left;
                     }
+
+                    th{
+                        border: 2px solid #fff;
+                    }
+
+
                     .velosiped{
                         overflow-x: scroll;
                     }
+
                 </style>
-                <div class="velosiped col-md-12 col-sm-12">
+                <div class="velosiped"><br>
                     <table class="table table-hover alert-info">
-                        <thead class="table-info alert-primary">
+                        <thead class="alert-primary">
                         <tr>
                             <th style="border: 2px solid #007099" scope="col">
-                                #
+                                <center><h5><b>#</b></h5></center>
                             </th>
                             <th style="border: 2px solid #007099" scope="col">
-                                Адрес
+                                <center><h5><b>Виды услуг</b></h5></center>
                             </th>
                             <th style="border: 2px solid #007099" scope="col">
-                                Площадь
+                                <center><h5><b>Ед.измер.</b></h5></center>
                             </th>
                             <th style="border: 2px solid #007099" scope="col">
-                                Основание управления
-                            </th>
-                            <th style="border: 2px solid #007099" scope="col">
-                                Дата начала управления
+                                <center><h5><b>Цена, руб.</b></h5></center>
                             </th>
                         </tr>
                         </thead>
                         <tbody>
                         <tr>
-                            <td>
-                                <b>1</b>
-                            </td>
-                            <td>
-                                улица Ленинского Комсомола, дом 68, корпус 1
-                            </td>
-                            <td>
-                                2110 м<sup>2</sup>
-                            </td>
-                            <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                            <td colspan="4">
+                                <div style="text-align: center;">
+                                    <h5><b>Сантехнические работы</b></h5>
+                                </div>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>2</b>
+                                <center><b>1</b></center>
+                            </td>
+                            <td align:left>
+                                Смена вентилей диаметром до 20 мм
                             </td>
                             <td>
-                                улица Ленинского Комсомола, дом 68, корпус 2
+                                <center>шт.</center>
                             </td>
                             <td>
-                                2112 м<sup>2</sup>
-                            </td>
-                            <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>188</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>3</b>
+                                <center><b>2</b></center>
                             </td>
                             <td>
-                                улица Ленинского Комсомола, дом 68, корпус 3
+                                Смена смесителей с душевой сеткой
                             </td>
                             <td>
-                                2238 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>616</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>4</b>
+                                <center><b>3</b></center>
                             </td>
                             <td>
-                                улица Ленинского Комсомола, дом 76
+                                Смена смесителей без душевой сетки
                             </td>
                             <td>
-                                3717 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>470</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>5</b>
+                                <center><b>4</b></center>
                             </td>
                             <td>
-                                улица Ленинского Комсомола, дом 80
+                                Смена санитарно-технических приборов:<br>
                             </td>
                             <td>
-                                3735 м<sup>2</sup>
+                                <br>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <br>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>6</b>
+                                <br>
                             </td>
                             <td>
-                                улица Ленинского Комсомола, дом 84, корпус 1
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash; гибкой подводки
                             </td>
                             <td>
-                                2103 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>120</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>7</b>
+                                <br>
                             </td>
                             <td>
-                                улица Ленинского Комсомола, дом 88, корпус 87
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash; смывного бочка
                             </td>
                             <td>
-                                5815 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>234</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>8</b>
+                                <br>
                             </td>
                             <td>
-                                улица Гастелло, дом 9
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash; унитаза типа "Компакт"
                             </td>
                             <td>
-                                6136 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>1564</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>9</b>
+                                <br>
                             </td>
                             <td>
-                                улица Гастелло, дом 11
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash; крана буксы
                             </td>
                             <td>
-                                3734 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>86</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>10</b>
+                                <br>
                             </td>
                             <td>
-                                улица Гастелло, дом 13
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash; крана с фильтром
                             </td>
                             <td>
-                                3706 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>291</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>11</b>
+                                <center><b>5</b></center>
                             </td>
                             <td>
-                                улица Гастелло, дом 15
+                                Регулировка смывного бачка
                             </td>
                             <td>
-                                3712 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>63</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>12</b>
+                                <center><b>6</b></center>
                             </td>
                             <td>
-                                улица Гастелло, дом 17
+                                Очистка внутренней канализационной сети
                             </td>
                             <td>
-                                7767 м<sup>2</sup>
+                                <center>1 м труб.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>76</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>13</b>
+                                <center><b>7</b></center>
                             </td>
                             <td>
-                                улица Гастелло, дом 17, корпус 1
+                                Пломбирование счетчиков расхода воды:
                             </td>
                             <td>
-                                1630 м<sup>2</sup>
+                                <br>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <br>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>14</b>
+                                <br>
                             </td>
                             <td>
-                                улица Гастелло, дом 19
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash; за пломбирование 1 счетчика<br>
                             </td>
                             <td>
-                                7678 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>144</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>15</b>
+                                <br>
                             </td>
                             <td>
-                                улица Гастелло, дом 23
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash; за пломбирование 2 счетчиков<br>
                             </td>
                             <td>
-                                6397 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>168</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>16</b>
+                                &nbsp;&nbsp;
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 47, корпус 9
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash; за пломбирование 3 счетчиков<br>
                             </td>
                             <td>
-                                3768 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>216</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>17</b>
+                                <center><b>8</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 48
+                                Смена регулирующего крана радиатора
                             </td>
                             <td>
-                                24728 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>617</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>18</b>
+                                <center><b>9</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 49
+                                Установка 1-го регулирующего крана радиатора
                             </td>
                             <td>
-                                3718 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>953</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>19</b>
+                                <center><b>10</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 52
+                                Установка 2-го регулирующих кранов радиатора
                             </td>
                             <td>
-                                17397 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>1576</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>20</b>
+                                <center><b>11</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 54
+                                Установка 1-го регулирующего крана радиатора с перемычкой&nbsp;&nbsp;
                             </td>
                             <td>
-                                17485 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>1303</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>21</b>
+                                <center><b>12</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 56
+                                Установка 2-х регулирующих кранов радиатора с перемычкой
                             </td>
                             <td>
-                                6700 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>1717</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>22</b>
+                                <center><b>13</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 59
+                                Установка водосчетчика (по смете)
                             </td>
                             <td>
-                                3699 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>764</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>23</b>
+                                <center><b>14</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 60
+                                Установка полотенцесушителя (по смете)
                             </td>
                             <td>
-                                6562 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>1830</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>24</b>
+                                <center><b>15</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 61
+                                Установка радиаторов (по смете)
                             </td>
                             <td>
-                                3671 м<sup>2</sup>
+                                <center>1 точка</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>2194</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>25</b>
+                                <center><b>16</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 67, корпус 1
+                                Установка радиаторов с кранами регулировки (по смете)
                             </td>
                             <td>
-                                1841 м<sup>2</sup>
+                                <center>1 место</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>2943</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>26</b>
+                                <center><b>17</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 68
+                                Смена водосчетчика
                             </td>
                             <td>
-                                10719 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>231</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>27</b>
+                                <center><b>18</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 75
+                                Слив воды из системы
                             </td>
                             <td>
-                                5811 м<sup>2</sup>
+                                <center>1 стояк</center>
                             </td>
                             <td>
-                                Договор управления
+                                <center>232</center>
                             </td>
-                            <td>
-                                01.01.2019
+                        </tr>
+                        <tr>
+                            <td colspan="4">
+                                <div style="text-align: center;">
+                                    <h5><b>Электромонтажные работы</b></h5>
+                                </div>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>28</b>
+                                <center><b>1</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 79
+                                Смена электрического звонка
                             </td>
                             <td>
-                                3308 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>163</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>29</b>
+                                <center><b>2</b></center>
                             </td>
                             <td>
-                                проспект Тракторостроителей, дом 85
+                                Смена электрического звонка с кнопкой
                             </td>
                             <td>
-                                8539 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
-                            </td>
-                            <td>
-                                01.01.2019
+                                <center>212</center>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <b>30</b>
+                                <center><b>3</b></center>
                             </td>
                             <td>
-                                проспект 9-ой Пятилетки, дом 32, корпус 1
+                                Смена выключателя
                             </td>
                             <td>
-                                3482 м<sup>2</sup>
+                                <center>шт.</center>
                             </td>
                             <td>
-                                Договор управления
+                                <center>86</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center><b>4</b></center>
                             </td>
                             <td>
-                                01.01.2019
+                                Смена автоматического выключателя
+                            </td>
+                            <td>
+                                <center>шт.</center>
+                            </td>
+                            <td>
+                                <center>344</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center><b>5</b></center>
+                            </td>
+                            <td>
+                                Смена розетки
+                            </td>
+                            <td>
+                                <center>шт.</center>
+                            </td>
+                            <td>
+                                <center>86</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center><b>6</b></center>
+                            </td>
+                            <td>
+                                Смена патрона
+                            </td>
+                            <td>
+                                <center>шт.</center>
+                            </td>
+                            <td>
+                                <center>93</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center><b>7</b></center>
+                            </td>
+                            <td>
+                                Смена электрического счетчика
+                            </td>
+                            <td>
+                                <center>шт.</center>
+                            </td>
+                            <td>
+                                <center>280</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center><b>8</b></center>
+                            </td>
+                            <td>
+                                Смена блока розеток выключателя
+                            </td>
+                            <td>
+                                <center>шт.</center>
+                            </td>
+                            <td>
+                                <center>308</center>
                             </td>
                         </tr>
                         </tbody>
                     </table>
                 </div>
 
-
+                <!--work_area. Конец -->
             </div>
         </div>
-
-<!--        <div class="col-xl-2 ">
+<!--        <div class="col-md-1 ">
         </div>-->
     </div>
 </div>

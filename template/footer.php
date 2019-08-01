@@ -50,21 +50,24 @@
                 <div class="row bottom-footer__inner">
                         <div class="col-xl-5 col-md-12 copyrait">© Copyright 2009–2019. Делаем жизнь лучше, создавая комфорт жителям. </div>
                         <div class="col-xl-7 col-md-10 offset-md-2 offset-xl-0 footer__contact">
-                            <div class="col-md-4 p0 col-xs-4 contact-2">
-                                <span>Диспетчерская</span>
-                                <span>+7 (8352) 53-22-66</span>
-                                <span>Круглосуточно</span>
+                            <div class="col-md-3 p0 col-xs-3 contact-2">
+
                             </div>
                             <div class="col-md-5 p0 col-xs-5 contact-2">
                                 <span>Приемная</span>
                                 <span>+7 (8352) 25-92-33</span>
                                 <span>понедельник - пятница с 8.00 до 17.00</span>
                             </div>
-                            <div class="col-md-3 p0 col-xs-3 contact-2">
+                            <div class="col-md-4 p0 col-xs-4 contact-2">
+                                <span>Диспетчерская</span>
+                                <span>+7 (8352) 53-22-66</span>
+                                <span>Круглосуточно</span>
+                            </div>
+<!--                            <div class="col-md-3 p0 col-xs-3 contact-2">
                                 <span>Почта</span>
                                 <span>mail@достояние-наследие.рф</span>
                                 <span>Для ваших обращений</span>
-                            </div>
+                            </div>-->
                          </div>
                         </div>
                 </div>

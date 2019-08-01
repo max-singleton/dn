@@ -9,19 +9,19 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
-                    <img class="banner" src="../img/Rectangle(2).png" alt="First slide">
+                    <img class="banner" src="../img/Rectangle(1).png" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="banner" src="../img/Rectangle(4).png" alt="Second slide">
+                    <img class="banner" src="../img/Rectangle(2).png" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="banner" src="../img/Rectangle(3).png" alt="Third slide">
+                    <img class="banner" src="../img/Rectangle(4).png" alt="Third slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="banner" src="../img/Rectangle(2).png" alt="Fwo slide">
+                    <img class="banner" src="../img/Rectangle(1).png" alt="Fwo slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="banner" src="../img/Rectangle(1).png" alt="Fife slide">
+                    <img class="banner" src="../img/Rectangle(2).png" alt="Fife slide">
                 </div>
             </div>
         </div>
