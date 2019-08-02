@@ -2,6 +2,7 @@ p{
     font-size: 18px;
     line-height: 1.7;
     text-indent: 40px;
+    font-family: Roboto;
 }
 ul > li > p{
     text-indent: 0px;
@@ -251,7 +252,7 @@ div{margin: 0;padding: 0;}
 /* Блок о компании*/
 .o-company{
     padding-top:-60px ;
-    padding: 80px 0;
+    padding: 20px 0px;
 }
 .o-company .zagolovok{
     font-family: Roboto;

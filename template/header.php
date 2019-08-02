@@ -16,7 +16,7 @@
                     <div class="col-xl-4 col-md-12 navig-2">
                         <li class="navigation-items">
                             <img class="vector" src="../img/Vector.png" alt="">
-                            <a href="/pages/personal/auth.php">ВХОД В ЛИЧНЫЙ КАБИНЕТ</a></li>
+                            <a href="lk.php">ВХОД В ЛИЧНЫЙ КАБИНЕТ</a></li>
                         <li class="navigation-items">
                             <img class="vector" src="../img/Vector-pencil.svg" alt="">
                             <a href="/pages/personal/reqistration.php">РЕГИСТРАЦИЯ</a> </li>
