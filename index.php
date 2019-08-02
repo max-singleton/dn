@@ -15,7 +15,7 @@
 
     <div class="container">
         <div class="row mid-banner">
-            <div class="col-xl-8 col-md-8 nazv-organ">Сайт организаций<br> ООО "Достояние" и ООО "Наследие".</div>
+            <div class="col-xl-8 col-md-8 nazv-organ">Сайт организаций<br> ООО "Достояние" и ООО "Наследие"</div>
             <div class="col-xl-4">
 			<!-- Включение блока c датой, временем и температурой -->
 			<?php include './template/date_time_temp.php'; ?>
@@ -27,8 +27,8 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-6 buttons">
-                <a class="button-1" href="/pages/personal/index.php">Передать показания счетчиков</a>
-                <a class="button-2" href="/pages/ask.php">Задать свой вопрос</a>
+                <a class="button-1" href="/pages/personal/index.php" id="ShowHide1">Передать показания счетчиков</a>
+                <a class="button-2" href="/pages/ask.php" id="ShowHide2">Задать свой вопрос</a>
             </div>			
             <div class="col-xl-6 page-neizv ">
                 <div class="block">

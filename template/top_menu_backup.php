@@ -5,7 +5,6 @@
     nav{
         /*background: #334;*/ /* Задаем основной фон меню */
         padding: 0 3%; /* Задаем внутренние отступы */
-        z-index: 10000000000000000000000000000000000000000000000000;
     }
 
     nav ul {
@@ -27,36 +26,22 @@
         color: #FFFFFF;
         letter-spacing: 1px;
         text-decoration: none;
-        /*text-transform: uppercase;*/
+        text-transform: uppercase;
         /*border-top: 1px solid #445;*/
-    }
-    nav > ul > li > ul > li > a{
-        /*Выпадающее меню*/
-        align: center;
-        font-weight: normal;
-        clear: both;
-        border-radius: 50px;
     }
     nav ul li a:hover{
         /*Цвет ссылки при наведении*/
-        color:#FFFFFF;
-        border-radius: 50px;
+        color: red;
     }
-    navigation:hover {
-        box-shadow: 0 0 0 99999px rgba(0, 0, 0, 0.8);
-    }
+
     nav ul li:hover {
-        background: #4A76A8; /* Меняем фон пункта меню при наведении указателя мыши */
-        border-radius: 50px;
+        background: #445; /* Меняем фон пункта меню при наведении указателя мыши */
     }
 
     nav ul li ul {
         display: none; /* Прячем пункты выпадающего блока меню */
         position:absolute;
-        z-index: 6;
-        /*background: #ccc;*/ /* Задаем фон выпадающего блока меню */
-        float: none;
-        padding-inline-start: 20px;
+        background: #334; /* Задаем фон выпадающего блока меню */
     }
 
     nav ul li:hover ul {
@@ -68,35 +53,31 @@
         display:block; /* Выстраиваем по вертикали пункты выпадающего меню */
     }
 
-    nav ul li a:hover {
-        /*При наведении на подменю все затемняется*/
-        box-shadow: 0 0 0 99999px rgba(0, 0, 0, 0.8);
-    }
 </style>
 
-<div class="container zatemnenie">
+<div class="container">
         <div class="row menu">
             <div class="col-xl-12 col-md-12 navig nav">
                 <nav role="navigation">
-                    <ul id="ul">
+                    <ul>
                         <li><a href="/">ГЛАВНАЯ</a></li>
                         <li><a href="about-company.php">О КОМПАНИИ</a>
                             <ul class="submenu">
-                                <li><a href="news.php">Новости</a></li>
-                                <li><a href="services.php">Услуги</a></li>
-                                <li><a href="jobs.php">Вакансии</a></li>
-                                <li><a href="paidServices.php">Платные работы</a></li>
-                                <li><a href="docs.php">Документы</a></li>
+                                <li><a href="news.php">НОВОСТИ</a></li>
+                                <li><a href="services.php">УСЛУГИ</a></li>
+                                <li><a href="jobs.php">ВАКАНСИИ</a></li>
+                                <li><a href="paidServices.php">ПЛАТНЫЕ РАБОТЫ</a></li>
+                                <li><a href="docs.php">ДОКУМЕНТЫ</a></li>
                             </ul>
                         </li>
                         <li><a href="contacts.php">КОНТАКТНАЯ ИНФОРМАЦИЯ</a>
-                            <ul class="submenu" style="padding-inline-start: 60px;">
-                                <li><a href="contacts.php">График работы</a></li>
-                                <li><a href="requisites.php">Реквизиты</a></li>
+                            <ul class="submenu">
+                                <li><a href="contacts.php">ГРАФИК РАБОТЫ</a></li>
+                                <li><a href="requisites.php">РЕКВИЗИТЫ</a></li>
                             </ul>
                         </li>
                         <li><a href="doma-v-obsluzgivanii.php">ДОМА В ОБСЛУЖИВАНИИ</a>
-                            <ul class="submenu" style="padding-inline-start: 40px;">
+                            <ul class="submenu">
                                 <li><a href="doma-dostoyanie.php">ООО "Достояние"</a></li>
                                 <li><a href="doma-nasledie.php">ООО "Наследие"</a></li>
                             </ul>

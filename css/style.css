@@ -200,8 +200,12 @@ div{margin: 0;padding: 0;}
     color: white;
 }    
 .buttons .button-1 {
-    padding: 23px 42px;
-    background: #4A76A8;
+    padding: 23px 40px;
+    /*background: #4A76A8;*/
+    border: 1px;
+    border-color: #ffffff;
+    border-width: 1px;
+    border-style: solid;
 }
 .buttons .button-2 {
     padding: 23px 37px;
