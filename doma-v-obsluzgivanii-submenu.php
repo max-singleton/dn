@@ -64,8 +64,8 @@
     <li>
         <ul class="submenu">
             <li><a href="doma-v-obsluzgivanii.php">Дома в обслуживании</a></li>
-            <li><a href="doma-dostoyanie.php">ООО "Достояние"</a></li>
-            <li><a href="doma-nasledie.php">ООО "Наследие"</a></li>
+            <li><a href="doma-dostoyanie.php">&#8226; ООО "Достояние"</a></li>
+            <li><a href="doma-nasledie.php">&#8226; ООО "Наследие"</a></li>
         </ul>
     </li>
 </ul>

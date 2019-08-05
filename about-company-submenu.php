@@ -64,11 +64,11 @@
     <li>
         <ul class="submenu">
             <li><a href="about-company.php">О КОМПАНИИ</a></li>
-            <li><a href="news.php">Новости</a></li>
-            <li><a href="services.php">Услуги</a></li>
-            <li><a href="jobs.php">Вакансии</a></li>
-            <li><a href="paidServices.php">Платные работы</a></li>
-            <li><a href="docs.php">Документы</a></li>
+            <li><a href="news.php">&#8226; Новости</a></li>
+            <li><a href="services.php">&#8226; Услуги</a></li>
+            <li><a href="jobs.php">&#8226; Вакансии</a></li>
+            <li><a href="paidServices.php">&#8226; Платные работы</a></li>
+            <li><a href="docs.php">&#8226; Документы</a></li>
         </ul>
     </li>
 </ul>

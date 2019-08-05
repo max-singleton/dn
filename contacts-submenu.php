@@ -64,8 +64,8 @@
     <li>
         <ul class="submenu">
             <li><a href="contacts.php">Контактная информация</a></li>
-            <li><a href="contacts.php">График работы</a></li>
-            <li><a href="requisites.php">Реквизиты</a></li>
+            <li><a href="contacts.php">&#8226; График работы</a></li>
+            <li><a href="requisites.php">&#8226; Реквизиты</a></li>
         </ul>
     </li>
 </ul>

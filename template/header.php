@@ -19,7 +19,7 @@
                             <a href="lk.php">ВХОД В ЛИЧНЫЙ КАБИНЕТ</a></li>
                         <li class="navigation-items">
                             <img class="vector" src="../img/Vector-pencil.svg" alt="">
-                            <a href="/pages/personal/reqistration.php">РЕГИСТРАЦИЯ</a> </li>
+                        <a class="window-open" href="javascript:void(0)" window="window-register" init="true">РЕГИСТРАЦИЯ</a> </li>
                     </div>
                 </div>
             </div>
