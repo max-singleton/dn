@@ -14,28 +14,31 @@
     </div>
 </div>
 
-	<!-- Контент. Начало -->
-<div class="container bg-white">
-    <div class="row o-company">
-<!--        <div class="col-md-1 ">
-        </div>-->
-        <div class="col">
-            <div class="col-md-12">
+    <!-- Контент. Начало -->
+    <div class="container bg-white">
+        <div class="row o-company">
+            <div class="col-md-4">
+
+                <?php include 'about-company-submenu.php' ?>
+
+            </div>
+
+            <div class="col-md-8 col-sm-12 col-xs-12">
                 <!--work_area. Начало -->
 
                 <style>
 
-                    td{
+                    td {
                         border: 2px solid #fff;
-                        text-align:left;
+                        text-align: left;
                     }
 
-                    th{
+                    th {
                         border: 2px solid #fff;
                     }
 
 
-                    .velosiped{
+                    .velosiped {
                         overflow-x: scroll;
                     }
 
@@ -555,11 +558,9 @@
 
                 <!--work_area. Конец -->
             </div>
+
         </div>
-<!--        <div class="col-md-1 ">
-        </div>-->
     </div>
-</div>
 
     <!-- Контент. Конец -->
 	

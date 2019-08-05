@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6be17d-18b2-4353-973b-abf2383c16d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-company-submenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-submenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doma-v-obsluzgivanii-submenu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ask.php" beforeDir="false" afterPath="$PROJECT_DIR$/ask.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.php" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs.php" beforeDir="false" afterPath="$PROJECT_DIR$/docs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doma-dostoyanie.php" beforeDir="false" afterPath="$PROJECT_DIR$/doma-dostoyanie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doma-nasledie.php" beforeDir="false" afterPath="$PROJECT_DIR$/doma-nasledie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doma-v-obsluzgivanii.php" beforeDir="false" afterPath="$PROJECT_DIR$/doma-v-obsluzgivanii.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jobs.php" beforeDir="false" afterPath="$PROJECT_DIR$/jobs.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/news.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/template/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/template/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paidServices.php" beforeDir="false" afterPath="$PROJECT_DIR$/paidServices.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requisites.php" beforeDir="false" afterPath="$PROJECT_DIR$/requisites.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/services.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/template/top_menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/template/top_menu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/top_menu_backup.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +33,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/news.php">
+        <entry file="file://$PROJECT_DIR$/ask.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="103" column="46" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="46" />
+            <state relative-caret-position="376">
+              <caret line="147" column="53" lean-forward="true" selection-start-line="147" selection-start-column="53" selection-end-line="147" selection-end-column="53" />
               <folding>
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,21 +98,12 @@
         <option value="$PROJECT_DIR$/inner.php" />
         <option value="$PROJECT_DIR$/top_menu.php" />
         <option value="$PROJECT_DIR$/pages/about-company.php" />
-        <option value="$PROJECT_DIR$/contacts.php" />
-        <option value="$PROJECT_DIR$/requisites.php" />
-        <option value="$PROJECT_DIR$/doma-v-obsluzgivanii.php" />
         <option value="$PROJECT_DIR$/ooo-dostoyanie.php" />
         <option value="$PROJECT_DIR$/template/date_time_temp.php" />
         <option value="$PROJECT_DIR$/template/slider.php" />
         <option value="$PROJECT_DIR$/about-company.php" />
         <option value="$PROJECT_DIR$/template/about.php" />
-        <option value="$PROJECT_DIR$/services.php" />
-        <option value="$PROJECT_DIR$/docs.php" />
-        <option value="$PROJECT_DIR$/paidServices.php" />
         <option value="$PROJECT_DIR$/template/top_contacts.php" />
-        <option value="$PROJECT_DIR$/doma-dostoyanie.php" />
-        <option value="$PROJECT_DIR$/doma-nasledie.php" />
-        <option value="$PROJECT_DIR$/ask.php" />
         <option value="$PROJECT_DIR$/text.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/myScriptsHomePage.js" />
@@ -112,9 +111,21 @@
         <option value="$PROJECT_DIR$/template/header.php" />
         <option value="$PROJECT_DIR$/template/footer.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/jobs.php" />
-        <option value="$PROJECT_DIR$/template/top_menu.php" />
+        <option value="$PROJECT_DIR$/about-company-submenu.php" />
         <option value="$PROJECT_DIR$/news.php" />
+        <option value="$PROJECT_DIR$/services.php" />
+        <option value="$PROJECT_DIR$/jobs.php" />
+        <option value="$PROJECT_DIR$/paidServices.php" />
+        <option value="$PROJECT_DIR$/docs.php" />
+        <option value="$PROJECT_DIR$/contacts.php" />
+        <option value="$PROJECT_DIR$/contacts-submenu.php" />
+        <option value="$PROJECT_DIR$/requisites.php" />
+        <option value="$PROJECT_DIR$/doma-v-obsluzgivanii.php" />
+        <option value="$PROJECT_DIR$/doma-v-obsluzgivanii-submenu.php" />
+        <option value="$PROJECT_DIR$/doma-nasledie.php" />
+        <option value="$PROJECT_DIR$/doma-dostoyanie.php" />
+        <option value="$PROJECT_DIR$/template/top_menu.php" />
+        <option value="$PROJECT_DIR$/ask.php" />
       </list>
     </option>
   </component>
@@ -164,17 +175,17 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\index.loc\template" />
+      <recent name="C:\OSPanel\domains\index.loc" />
+      <recent name="C:\OSPanel\domains\index.loc\pages" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\OSPanel\domains\index.loc" />
       <recent name="C:\OSPanel\domains\index.loc\template" />
       <recent name="C:\OSPanel\domains\index.loc\pages" />
       <recent name="C:\OSPanel\domains\index.loc\pages\about" />
       <recent name="C:\OSPanel\domains\dn.loc" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\OSPanel\domains\index.loc\template" />
-      <recent name="C:\OSPanel\domains\index.loc" />
-      <recent name="C:\OSPanel\domains\index.loc\pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -209,16 +220,18 @@
       <workItem from="1564666039424" duration="926000" />
       <workItem from="1564724396502" duration="5768000" />
       <workItem from="1564731683176" duration="10869000" />
+      <workItem from="1564981946623" duration="5692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69519000" />
+    <option name="totallyTimeSpent" value="75211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28464016" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28893661" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -275,34 +288,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/about/index.php" />
-    <entry file="file://$PROJECT_DIR$/contacts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requisites.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doma-v-obsluzhivanii.php" />
-    <entry file="file://$PROJECT_DIR$/doma-v-obsluzgivanii.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="90" column="32" lean-forward="true" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1147#1165#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#center#0;n#form#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/date_time_temp.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -331,27 +317,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paidServices.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="19" column="4" selection-start-line="19" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/top_contacts.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -359,36 +324,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doma-nasledie.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="317" column="17" lean-forward="true" selection-start-line="317" selection-start-column="17" selection-end-line="317" selection-end-column="17" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doma-dostoyanie.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="573" column="4" selection-start-line="573" selection-end-line="574" selection-end-column="17" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ask.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/top_menu_backup.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/template/top_menu_backup.php" />
     <entry file="file://$PROJECT_DIR$/text.php" />
     <entry file="file://$PROJECT_DIR$/lk.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -441,13 +377,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jobs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="32" column="81" selection-start-line="32" selection-start-column="81" selection-end-line="32" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -455,22 +384,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/top_menu.php">
+    <entry file="file://$PROJECT_DIR$/news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret selection-end-line="76" />
+        <state relative-caret-position="420">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding>
-            <element signature="n#style#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news.php">
+    <entry file="file://$PROJECT_DIR$/jobs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="103" column="46" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="46" />
+        <state relative-caret-position="369">
+          <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
           <folding>
             <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paidServices.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="52" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-company-submenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="55" column="18" lean-forward="true" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts-submenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="69" column="9" lean-forward="true" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requisites.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doma-v-obsluzgivanii-submenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doma-v-obsluzgivanii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doma-nasledie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doma-dostoyanie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="577" column="10" lean-forward="true" selection-start-line="577" selection-start-column="10" selection-end-line="577" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/top_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="147" column="53" lean-forward="true" selection-start-line="147" selection-start-column="53" selection-end-line="147" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

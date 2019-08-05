@@ -17,10 +17,10 @@
 	<!-- Контент. Начало -->
 <div class="container bg-white">
     <div class="row o-company">
-<!--        <div class="col-xl-2 ">
-        </div>-->
-        <div class="col">
-            <div class="col-md-12">
+        <div class="col-md-4">
+            <?php include 'doma-v-obsluzgivanii-submenu.php' ?>
+        </div>
+            <div class="col-md-8">
 
                 <style>
                     td,tr {
@@ -312,10 +312,8 @@
                     </table></div>
 
             </div>
-        </div>
 
-<!--        <div class="col-xl-2 ">
-        </div>-->
+
     </div>
 </div>
 

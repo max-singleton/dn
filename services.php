@@ -17,10 +17,14 @@
 	<!-- Контент. Начало -->
 <div class="container bg-white">
     <div class="row o-company">
-        <div class="col-xl-2 ">
+
+        <div class="col-md-4">
+
+            <?php include 'about-company-submenu.php' ?>
+
         </div>
-        <div class="col">
-            <div class="col-md-8">
+
+        <div class="col-md-8">
                 <!--work_area. Начало -->
                 <style>
                     li, ul, ol{ list-style-type: disc;}
@@ -86,9 +90,7 @@
 
                 <!--work_area. Конец -->
             </div>
-        </div>
-        <div class="col-xl-2 ">
-        </div>
+
     </div>
 </div>
 

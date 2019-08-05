@@ -17,9 +17,9 @@
 	<!-- Контент. Начало -->
 <div class="container bg-white">
     <div class="row o-company">
-        <div class="col-xl-2 ">
-        </div>
-        <div class="col">
+            <div class="col-md-4">
+            <?php include 'doma-v-obsluzgivanii-submenu.php' ?>
+            </div>
             <div class="col-md-8">
                 <div style="text-align: center;">
                     <h2 class="alert-heading">Как определить, к какой организации относится ваш дом?</h2>
@@ -112,9 +112,6 @@
 
                 </div>
             </div>
-        </div>
-        <div class="col-xl-2 ">
-        </div>
     </div>
 </div>
 

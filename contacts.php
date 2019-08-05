@@ -17,13 +17,14 @@
 	<!-- Контент. Начало -->
 <div class="container bg-white">
     <div class="row o-company">
-        <div class="col-xl-2 ">
+        <div class="col-md-4 ">
+
+            <?php include 'contacts-submenu.php'?>
 
         </div>
-        <div class="col">
 
+            <div class="container col-md-8">
 
-            <div class="container col-md-8 offset-md-2">
                 <style type="text/css">
                     .tabs { width: 100%; padding: 0px; margin: 0 auto; }
                     .tabs>input { display:none; }
@@ -54,6 +55,7 @@
                     #tab_3:checked ~ #txt_3,
                     #tab_4:checked ~ #txt_4 { display: block; }
                 </style>
+
                 <div class="tabs">
                     <br>
                     <input type="radio" name="inset" value="" id="tab_1" checked="">
@@ -197,11 +199,6 @@
                 </div>
             </div>
 
-            <div class="col-xl-2 ">
-
-            </div>
-
-        </div>
     </div>
 </div>
     <!-- Контент. Конец -->

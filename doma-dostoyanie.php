@@ -17,10 +17,12 @@
 	<!-- Контент. Начало -->
 <div class="container bg-white">
     <div class="row o-company">
-        <!--<div class="col-xl-2 ">
-        </div>-->
-        <div class="col">
-            <div class="col-md-12">
+
+        <div class="col-md-4">
+            <?php include 'doma-v-obsluzgivanii-submenu.php' ?>
+        </div>
+
+            <div class="col-md-8">
 
                 <style>
                     td,tr {
@@ -31,6 +33,7 @@
                         overflow-x: scroll;
                     }
                 </style>
+
                 <div class="velosiped col-md-12 col-sm-12">
                     <table class="table table-hover alert-info">
                         <thead class="table-info alert-primary">
@@ -569,10 +572,9 @@
 
 
             </div>
-        </div>
 
-<!--        <div class="col-xl-2 ">
-        </div>-->
+
+
     </div>
 </div>
 
